@@ -152,22 +152,22 @@ include('layout/header.php');
                           <!-- lista  -->
 
                         <ul class="list">
-                            <li class="img-fluid wow fadeInLeft" data-wow-delay="0.3s"><i class="fa fa-dot-circle text-success"></i>
+                            <li class="img-fluid wow fadeInLeft" data-wow-delay="0.3s"><i class="fa fa-cube text-success"></i>
                             Demonstre que as ideias veiculadas por você não são “coisas de outro mundo”, mas se relacionam à rotina de trabalho e estão ancoradas em outras ideias já conhecidas por todos. Para isso, basta que o texto se articule a outros ou que apresente informações novas a partir de outras já sabidas coletivamente;
                             </li>
-                            <li class="img-fluid wow fadeInLeft" data-wow-delay="0.3s"><i class="fa fa-dot-circle text-success"></i>
+                            <li class="img-fluid wow fadeInLeft" data-wow-delay="0.3s"><i class="fa fa-cube text-success"></i>
                             Explore a emoção para motivar a memória, faça relações com experiências que já deram certo, com valores morais (isso provoca o interlocutor);
                             </li>
-                            <li class="img-fluid wow fadeInLeft" data-wow-delay="0.3s"><i class="fa fa-dot-circle text-success"></i>
+                            <li class="img-fluid wow fadeInLeft" data-wow-delay="0.3s"><i class="fa fa-cube text-success"></i>
                             Seja claro: as pessoas não se interessam por obscuridades e nem por informações circulares que são armazenadas na memória de curto prazo e esquecidas em seguida, segundos depois de serem recebidas;
                             </li>
-                            <li class="img-fluid wow fadeInLeft" data-wow-delay="0.3s"><i class="fa fa-dot-circle text-success"></i>
+                            <li class="img-fluid wow fadeInLeft" data-wow-delay="0.3s"><i class="fa fa-cube text-success"></i>
                             Tente tornar seu interlocutor partícipe de suas ideias, envolva-o. Para isso, basta que ele tenha ação: opine, analise, critique, discorra;
                             </li>
-                            <li class="img-fluid wow fadeInLeft" data-wow-delay="0.3s"><i class="fa fa-dot-circle text-success"></i>
+                            <li class="img-fluid wow fadeInLeft" data-wow-delay="0.3s"><i class="fa fa-cube text-success"></i>
                             Quando for possível, apresente as ideias em forma de desafios que precisam ser enfrentados em equipe, ou em forma de enigmas cuja solução depende do trabalho/ empenho de todos.
                             </li>
-                            <li class="img-fluid wow fadeInLeft" data-wow-delay="0.3s"><i class="fa fa-dot-circle text-success"></i>
+                            <li class="img-fluid wow fadeInLeft" data-wow-delay="0.3s"><i class="fa fa-cube text-success"></i>
                             Toda comunicação escrita precisa ter relevância, para que as pessoas não tenham a sensação de que estão perdendo tempo e para que a valorizem, afinal, por que dar resposta a algo que não faz diferença alguma?
 
                             </li>

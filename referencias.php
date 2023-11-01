@@ -34,72 +34,57 @@ include('layout/header.php');
 
                             <br>
 
-                            <p class="Texto"> <i class="bi bi-book "></i> ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR
-                                9241-11:
-                                <strong>Requisitos ergonômicos para trabalho de escritórios com
-                                    computadores.</strong> Parte 11-Orientações sobre usabilidade. 2002
+                            <p class="Texto"> <i class="bi bi-book "></i> ANTUNES, Celso. A arte de comunicar. Rio de Janeiro: Vozes, 2005.
                             </p>
 
-                            <p class="Texto"> <i class="bi bi-book"></i><strong> ISO/IEC 25000 </strong>Software and
-                                system engineering–Software product
-                                Quality Requirements and Evaluation (SQuaRE) - Guide to SQuaRE.
-                                International Organization for Standarization, 2014.</p>
+                            <p class="Texto"> <i class="bi bi-book"></i> BECHARA, E. Moderna gramática portuguesa. 37. ed. rev. e ampl. Rio de Janeiro: Lucerna, 2003.</p>
 
-                            <p class="Texto"> <i class="bi bi-book"></i><strong> ISO. ISO/IEC 25010:</strong> 2011
-                                (2011). Systems and software engineering--
-                                Systems and software Quality Requirements and Evaluation (SQuaRE)--
-                                System and software quality models. Geneva, 2011. </p>
-                            <p class="Texto"> <i class="bi bi-book"></i><strong> ABREU, L. M. Usabilidade de telefones
-                                    celulares com base em
-                                    critérios ergonômicos.</strong> Tese de Mestrado pelo Programa de PósGraduação em
-                                Design do Departamento de Artes & Design, PUC-Rio.
-                                Rio de Janeiro. 2005. </p>
-                            <p class="Texto"> <i class="bi bi-book"></i> REBELO, Irla B.<strong>Usabilidade e suas
-                                    metas.</strong> Apostila. Brasília, DF. Última
-                                atualização em novembro de 2009. Disponível em
-                                <a href="https://irlabr.wordpress.com/"
-                                    target="_blank">https://irlabr.wordpress.com/</a>.
-                            </p>
-                            <p class="Texto"> <i class="bi bi-book"></i> NIELSEN, J. (2012, January 3).
-                                <strong>Usability 101: Introduction to Usability.</strong>
-                                Acessado em novembro de 2020. Disponível em
-                                <a href="https://www.nngroup.com/articles/usability-101-introduction-to-usability/"
-                                    target="_blank">
-                                    https://www.nngroup.com/articles/usability-101-introduction-tousability</a>
-                            </p>
-                            <p class="Texto"> <i class="bi bi-book"></i> BARBOSA, Simone; SILVA, Bruno.
-                                <strong>Interação humano-computador.</strong>
-                                Elsevier Brasil, 2010. </p>
-                            <p class="Texto">NIELSEN, J. (1994, April 24). <strong>10 Usability Heuristics for User
-                                    Interface Design</strong>. Retrieved November 16, 2020, from <a
-                                    href="https://www.nngroup.com/articles/ten-usability-heuristics/"
-                                    target="_blank">https://www.nngroup.com/articles/ten-usability-heuristics/</a>.</p>
+                            <p class="Texto"> <i class="bi bi-book"></i> BELTRÃO, O. Correspondência: linguagem e comunicação. 16. ed. São Paulo: Atlas, 1981.</p>
 
-                            <p class="Texto"> <i class="bi bi-book"></i> Nielsen, J. (1994a). <strong>Enhancing the explanatory power of usability
-                                    heuristics</strong>. Proc. ACM CHI'94 Conf. (Boston, MA, April 24-28), 152-158.</p>
+                            <p class="Texto"> <i class="bi bi-book"></i> BLIKSTEIN, I. Técnicas de comunicação escrita. 12. ed. São Paulo: Ática, 1995.</p>
 
-                            <p class="Texto"> <i class="bi bi-book"></i> Nielsen, J. (1994b). <strong>Heuristic evaluation</strong>. In Nielsen, J.,
-                                and Mack, R.L. (Eds.), Usability Inspection Methods, John Wiley & Sons, New York, NY.
+                            <p class="Texto"> <i class="bi bi-book"></i> BRASIL. Congresso. Câmara dos Deputados. Manual de Redação. Brasília: Câmara dos Deputados, Coordenação de Publicações, 2004.</p>
+
+                            <p class="Texto"> <i class="bi bi-book"></i> Manual de redação da Presidência da República / Casa Civil, Subchefia de Assuntos Jurídicos ; coordenação de Gilmar Ferreira Mendes, Nestor José Forster Júnior [et al.]. – 3. ed., rev., atual. e ampl. – Brasília: Presidência da República, 2018. 189 p.
                             </p>
 
-                            <p class="Texto"> <i class="bi bi-book"></i> Gordon, Kelley (March 1, 2020). <strong>5 Principles of Visual Design in
-                                    UX</strong>. Retrieved November 22, 2020, from <a
-                                    href="https://www.nngroup.com/articles/principles-visual-design/"
-                                    target="_blank">https://www.nngroup.com/articles/principles-visual-design/</a>. </p>
+                            <p class="Texto"> <i class="bi bi-book"></i> FERREIRA, Aurélio Buarque de Holanda. Dicionário Aurélio eletrônico: século XXI. Versão 3.0. [S.l.]: Lexikon Informática Ltda, 1999.</p>
 
-                            <p class="Texto"> <i class="bi bi-book"></i> CARELMAN, Jacques. <strong>Catalogue d'objets introuvables</strong>.
-                                Balland, 1980.</p>
+                            <p class="Texto"> <i class="bi bi-book"></i> FERREIRA, Eric Duarte; CAMBRUSSI, Morgana Ferreira. Redação Empresarial. Florianópolis: CAD/CSE/UFSC, 2008.</p>
+ 
+                            <p class="Texto"> <i class="bi bi-book"></i> FLÔRES, L. L. Redação oficial. 3. ed. Florianópolis: Ed. da UFSC, 2002.</p>
 
-                            <p class="Texto"> <i class="bi bi-book"></i> NORMAN, Donald A. <strong>O design do dia a dia</strong>. Editora Rocco,
-                                2018.</p>
+                            <p class="Texto"> <i class="bi bi-book"></i>  ______. Redação Oficial. Florianópolis: Departamento de Ciências da Administração, UFSC, 2007.
+                            </p>
 
+                            <p class="Texto"> <i class="bi bi-book"></i> FAVERO, Leonor Lopes. Coesão e coerência textuais. São Paulo: Ática, 1991.</p>
+
+                            <p class="Texto"> <i class="bi bi-book"></i> GOLD, M. Redação empresarial: escrevendo com sucesso na era da globalização. 3. ed. São Paulo: Pearson Pretice Hall, 2005.</p>
+
+                            <p class="Texto"> <i class="bi bi-book"></i> GUIA DO ESTUDANTE. Caderno Profissões. São Paulo: Editora Abril, 2009.</p>
+
+                            <p class="Texto"> <i class="bi bi-book"></i> HOUAISS, Antônio. Dicionário Houaiss da Língua Portuguesa. Rio de Janeiro: Objetiva, 2001.</p>
+
+                            <p class="Texto"> <i class="bi bi-book"></i> MARTINS, Dileta Silveira; ZILBERKNOP, Lubia Scliar. Português instrumental. 17. ed. Porto Alegre: Sagra-DC Luzzatto, 1995.</p>
+
+                            <p class="Texto"> <i class="bi bi-book"></i> MATARAZZO, Cláudia. Net.com.classe: um guia para ser virtualmente elegante. São Paulo: Melhoramentos, 1999.</p>
+
+                            <p class="Texto"> <i class="bi bi-book"></i> MEDEIROS, J. B. Correspondência: técnicas de comunicação criativa. 13. ed. São Paulo: Atlas, 1999.</p>
+
+                            <p class="Texto"> <i class="bi bi-book"></i> PLATÃO, Francisco Savioli; FIORIN, José Luiz. Lições de texto: leitura e redação. 4. ed. São Paulo: Ática, 2003.</p>
+
+                            <p class="Texto"> <i class="bi bi-book"></i> PREFEITURA MUNICIPAL DE FLORIANÓPOLIS. Secretaria Municipal da Receita. Portaria n. 4, de 15 de janeiro de 2008. Disponível em: <a target="blank" href="https://www.pmf.sc.gov.br/arquivos/arquivos/pdf/04_10_2010_16.53.38.6088e601fc02fb2cbf45709e05392e58.pdf">: http://www.pmf.sc.gov.br/arquivos/arquivos/pdf/04_10_2010_16.53.38.6088e601fc02fb2cbf45709e05392e58.pdf.</a>Acesso em: 25 nov. 2014.</p>
+
+                            <p class="Texto"> <i class="bi bi-book"></i> SANTA CATARINA. Secretaria de Estado da Administração. Diretoria de Patrimônio e documentação. Padronização e redação dos atos oficiais. 2. ed. rev. e atual. Florianópolis: SEA, 2003.</p>
+
+                            <p class="Texto"> <i class="bi bi-book"></i> UNIVERSIDADE FEDERAL DE SANTA CATARINA. Manual de identidade visual. Disponível em: <a target="blank" href="https://identidade.ufsc.br/"> http://www.identidade.ufsc.br</a>. Acesso em: 24 nov. 2014.</p>
 
                             <!-- Botões de navegação -->
                             <div class="text-center">
-                                <a href="topico04.php" class="btn btn-outline-success" role="button"
+                                <a href="topico03.php" class="btn btn-outline-success" role="button"
                                     aria-pressed="true">
                                     <i class="fa-solid fa-chevron-left"></i> Voltar </a>
-                                <a href="topico01.php" class="btn btn-outline-success" role="button"
+                                <a href="#" class="btn btn-outline-success" role="button"
                                     aria-pressed="true">Realizar a Atividade Avaliativa <i
                                         class="fa-solid fa-chevron-right"></i></a>
                             </div>

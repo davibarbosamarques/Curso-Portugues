@@ -38,13 +38,13 @@ include('layout/header.php');
                         <!-- lista  -->
 
                         <ul class="list">
-                            <li class="img-fluid wow fadeInLeft" data-wow-delay="0.3s"><i class="fa fa-dot-circle text-success"></i>
+                            <li class="img-fluid wow fadeInLeft" data-wow-delay="0.3s"><i class="fa fa-bullseye text-success"></i>
                             Compreender a funcionalidade da redação oficial, seu espaço de circulação e seus objetivos;
                             </li>
-                            <li class="img-fluid wow fadeInLeft" data-wow-delay="0.3s"><i class="fa fa-dot-circle text-success"></i>
+                            <li class="img-fluid wow fadeInLeft" data-wow-delay="0.3s"><i class="fa fa-bullseye text-success"></i>
                             Reconhecer as características e as particularidades da escrita oficial;
                             </li>
-                            <li class="img-fluid wow fadeInLeft" data-wow-delay="0.3s"><i class="fa fa-dot-circle text-success"></i>
+                            <li class="img-fluid wow fadeInLeft" data-wow-delay="0.3s"><i class="fa fa-bullseye text-success"></i>
                             Utilizar adequadamente as formas de tratamento oficiais.
                             </li>
                         </ul>
