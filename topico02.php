@@ -165,13 +165,46 @@ include('layout/header.php');
                             </section>
                             <!-- FIM DA CAIXA FIQUE ATENTO -->
                             <p>Conforme Flôres,</p>
+
+                            <div class="bd-callout bd-callout-success">
+                                <p>"A Redação Oficial é utilizada pela Administração Direta, composta pelos serviços integrados na estrutura administrativa da Presidência da República e dos Ministérios, e pela Administração Indireta, composta por entidades dotadas de personalidade jurídica própria, como autarquias, empresas públicas, sociedades de economia mista e órgãos que compõem os poderes Legislativo e Judiciário."</p>
+                                <p class="text-end">- FLÔRES, 2007, p. 27</p>
+                            </div>
+
+                            <!-- CAIXA DE TEXTO CURIOSIDADE -->
+                            <section class="container">
+                                <div class="accordion ">
+                                <section id="content">
+                                    <div class="caixaprincipal" id="tituloCuriosidade">
+                                    <div class="div_teste">
+                                        <div><i class="fa-solid fa-question"></i> CURIOSIDADE </div>
+
+                                        <i id="icon-pointer" class="fa-regular fa-hand-pointer fa-beat"></i>
+                                    </div>
+                                    </div> <!--caixa Principal-->
+                                    <div class="accordion-content" id="Curiosidade">
+                                    <p class="txt-aviso"><strong class="opacity-75"><strong class="opacity-75">
+                                            Passe o mouse acima
+                                        </strong></strong></p>
+                                    <p class="txt-caixasecundaria">A uniformidade e a padronização de correspondências relacionadas aos atos administrativos oficiais não eram características amplamente praticadas até pouco tempo atrás. Data de 11 de janeiro de 1991 o Decreto n. 100.000, em que o Presidente da República autorizou a criação de uma comissão para rever, atualizar, uniformizar e simplificar as normas de redação de atos e comunicações oficiais. Em outubro do mesmo ano, essa comissão apresentou a primeira edição do Manual de Redação da Presidência da República, que tinha o objetivo de racionalizar e padronizar os textos oficiais.
+                                    </p>
+                                    <p class="txt-caixasecundaria">Dez anos depois, fez-se necessário revisar e atualizar o texto do Manual, principalmente para adaptá-lo à evolução legislativa brasileira e para adequá-lo às formas de comunicação oficial e aos avanços da informática. Essa segunda edição revisada e atual do Manual está disponível, desde 2002, no sítio da Casa Civil. Conheça mais sobre o Manual, em: <a target="blank" href="https://www4.planalto.gov.br/centrodeestudos/assuntos/manual-de-redacao-da-presidencia-da-republica/manual-de-redacao.pdf">http://www4.planalto.gov.br/manual-de-redacao.pdf</a></p><!--caixa secundaria-->
+                                    </div>
+                                </section>
+                            </section>
+                            <!-- FIM DA CAIXA DE TEXTO CURIOSIDADE -->
+
+                            <!-- subtopico -->
+                            <h3 class="Subtopico fw-bolder">Características da Redação Oficial</h3>
+                            <!-- subtopico -->
+
                             <!-- Botões de navegação -->
                             <div class="text-center">
-                                <a href="topico04.php" class="btn btn-outline-success" role="button"
+                                <a href="topico01.php" class="btn btn-outline-success" role="button"
                                     aria-pressed="true">
                                     <i class="fa-solid fa-chevron-left"></i> Voltar </a>
-                                <a href="topico01.php" class="btn btn-outline-success" role="button"
-                                    aria-pressed="true">Realizar a Atividade Avaliativa <i
+                                <a href="topico03.php" class="btn btn-outline-success" role="button"
+                                    aria-pressed="true">Próximo<i
                                         class="fa-solid fa-chevron-right"></i></a>
                             </div>
                         </div>

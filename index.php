@@ -33,7 +33,7 @@ include('layout/header.php');
                         <p>Nesta aula, apresentaremos algumas técnicas de comunicação verbal e características de redação denominada “Oficial”. Além disso, você conhecerá as formas de tratamento utilizadas nesse tipo de redação e os cuidados a serem observados ao emprega-las em situações formais.
                         </p>
 
-                        <h2 class="Titulo fw-bolder">Apresentação</h2>
+                        <h2 class="Titulo fw-bolder">Objetivos</h2>
 
                         <!-- lista  -->
 
