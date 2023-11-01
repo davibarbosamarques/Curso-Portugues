@@ -332,6 +332,27 @@ include('layout/header.php');
                                 <!-- FIM DA CAIXA EXEMPLO-->
                             </ol>
                             <!-- fim da lista ordenada  -->
+                            <p>O quarto e último aspecto da linguagem formal está relacionado ao conjunto: clareza, concisão e objetividade. Imagine um Ofício da Presidência ou um Decreto escrito de forma obscura e ambígua, dificultando, assim, sua compreensão. É algo inaceitável, não é mesmo? A transparência do sentido e a inteligibilidade (Qualidade do que pode ser compreendido) dos documentos e correspondências oficiais são requisitos do próprio Estado de Direito (Estado regulado por uma constituição que prevê uma pluralidade de orgãos dotados de competência distintas explicitamente determinada), por isso é inadmissível que um texto legal ou oficial não seja entendido de forma clara pelos cidadãos. A publicidade do texto implica, portanto, necessariamente, a clareza e a concisão.</p>
+
+                            <!-- CAIXA DE TEXTO IMPORTANTE -->
+                            <section class="container">
+                                <div class="accordion">
+                                <section id="content">
+                                    <div class="caixaprincipal" id="tituloimportante">
+                                    <div class="div_teste">
+                                        <div><i class="bi bi-exclamation-circle"></i> IMPORTANTE </div>
+                                        <i id="icon-pointer" class="fa-regular fa-hand-pointer fa-beat"></i>
+                                    </div>
+                                    </div> <!--caixa Principal-->
+                                    <div class="accordion-content" id="importante">
+                                    <p class="txt-aviso"><strong class="opacity-75"> Passe o mouse acima </strong></p>
+                                    <p class="txt-caixasecundaria">O uso da linguagem formal no âmbito do serviço público é uma exigência que advém da finalidade dos textos oficiais: sempre estão relacionados, em última instância, ao governo dos cidadãos. Dito de outro modo, esses textos estabelecem regras para a conduta dos cidadãos ou regulam o funcionamento de órgãos públicos que atendem à sociedade, direta ou indiretamente. Logo, o caráter público dos textos oficiais e sua finalidade determinam o emprego do nível culto da linguagem.</p> <!--caixa secundaria-->
+                                    </div>
+                                </section>
+                                </div>
+                            </section>
+                            <!-- FIM DA CAIXA IMPORTANTE -->
+                            <p>É importante ressaltar, entretanto, que o uso dos elementos que conferem formalidade à escrita oficial não deve ser confundido com a utilização de uma suposta forma específica de linguagem denominada vulgarmente de burocratês. Deve-se evitar este tipo de linguagem, caracterizada pelo uso de expressões feitas, clichês do jargão burocrático e de formas arcaicas ou complexas de construção de frases.</p>
                             <!-- Botões de navegação -->
                             <div class="text-center">
                                 <a href="topico01.php" class="btn btn-outline-success" role="button"
